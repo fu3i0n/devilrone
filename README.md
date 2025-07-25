@@ -104,11 +104,49 @@ Specialties: [
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devilrone&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=00D4AA&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilrone&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devilrone&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=00D4AA&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilrone&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=devilrone&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=00D4AA&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 Achievement Unlocked
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devilrone&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophy Stats"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilrone&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 💭 Random Dev Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+---
+
+## 🔥 Quick Stats & Metrics
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=devilrone&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/devilrone?color=FF6B6B&style=for-the-badge&label=FOLLOWERS)
+![GitHub Stars](https://img.shields.io/github/stars/devilrone?color=FF6B6B&style=for-the-badge&label=TOTAL+STARS)
+
 </div>
 
 ---
