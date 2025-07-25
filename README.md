@@ -4,7 +4,7 @@
   
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Aerospace+Systems+Architect+%F0%9F%9B%B0%EF%B8%8F;Game+Modding+Wizard+%F0%9F%94%A5;Builder+of+Legendary+Systems+%F0%9F%92%80)
 
-[![Made with ❤️ and Rage](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20and%20rage-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevilDevelopments)
+[![Made with ❤️ and Rage](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20and%20rage-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devilrone)
 [![Professional](https://img.shields.io/badge/Aerospace-Engineer-0077B5?style=for-the-badge&logo=boeing&logoColor=white)](https://linkedin.com)
 [![Contact](https://img.shields.io/badge/Let's-Build-00D4AA?style=for-the-badge&logo=telegram&logoColor=white)](mailto:contact@example.com)
 
@@ -128,11 +128,11 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevilDevelopments&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=00D4AA&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devilrone&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=00D4AA&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevilDevelopments&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devilrone&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevilDevelopments&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=00D4AA&fire=FF6B6B&currStreakLabel=FFFFFF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devilrone&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=00D4AA&fire=FF6B6B&currStreakLabel=FFFFFF)
 
 </div>
 
@@ -142,8 +142,8 @@
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=DevilDevelopments&repo=legendary-fivem-framework&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=00D4AA&text_color=FFFFFF)](https://github.com/DevilDevelopments/legendary-fivem-framework)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=DevilDevelopments&repo=redm-roleplay-core&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=00D4AA&text_color=FFFFFF)](https://github.com/DevilDevelopments/redm-roleplay-core)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=devilrone&repo=legendary-fivem-framework&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=00D4AA&text_color=FFFFFF)](https://github.com/devilrone/legendary-fivem-framework)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=devilrone&repo=redm-roleplay-core&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=00D4AA&text_color=FFFFFF)](https://github.com/devilrone/redm-roleplay-core)
 
 </div>
 
@@ -170,6 +170,6 @@
 
 **⚡ "Code with purpose. Build with passion. Ship with pride." ⚡**
 
-![Profile Views](https://komarev.com/ghpvc/?username=DevilDevelopments&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=devilrone&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
