@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/RedM-FXServer-blue?style=for-the-badge&logo=rockstar-games" />
   <img src="https://img.shields.io/badge/FiveM-Roleplay-orange?style=for-the-badge&logo=lua" />
   <img src="https://img.shields.io/badge/Minecraft-Modder-green?style=for-the-badge&logo=minecraft" />
-  <img src="https://img.shields.io/badge/Call%20of%20Duty-Zombies%20&%20MP-black?style=for-the-badge&logo=callofduty" />
   <img src="https://img.shields.io/badge/Garry's%20Mod-Lua%20Dev-1a73e8?style=for-the-badge&logo=steam" />
   <img src="https://img.shields.io/badge/Roblox-LuaU%20Games-red?style=for-the-badge&logo=roblox" />
   <img src="https://img.shields.io/badge/DayZ-Standalone-lightgrey?style=for-the-badge&logo=arma" />
@@ -20,7 +19,7 @@
 
 ## About Me
 
-Hey, I’m **Devil** — a no-bullshit **Software Engineer** at a real-world 🛰️ **Aerospace Company**.  
+Hey, I’m **Devil** a no-bullshit **Software Engineer** at a real world **Aerospace Company**.  
 I architect real systems that orbit the planet... and in my free time, I mod the absolute hell out of games like:
 
 ---
@@ -53,12 +52,12 @@ I architect real systems that orbit the planet... and in my free time, I mod the
 
 ---
 
-> 🔧 **Everything I build is full-stack, backend-connected, modular, and built to run without failure.**  
+> **Everything I build is full-stack, backend-connected, modular, and built to run without failure.**  
 If it doesn't have proper persistence, UI polish, and backend sanity checks — I don't ship it.
 
 ---
 
-## 🛠️ My Arsenal
+## My Arsenal
 
 ```yaml
 Languages: [
