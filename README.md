@@ -152,9 +152,6 @@ Specialties: [
 ---
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=devilrone&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
-
 **⚡ "Code with purpose. Build with passion. Ship with pride." ⚡**
 
 </div>
