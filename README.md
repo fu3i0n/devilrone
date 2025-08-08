@@ -1,91 +1,165 @@
-<!-- Ultimate Cyberpunk README for Devil Developments -->
+<div align="center">👹 Devil Developments</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=800&color=8A2BE2&lines=Welcome+to+Devil+Developments;Software+Engineer+%F0%9F%9A%80;Game+Modding+Wizard+%F0%9F%94%A5;Building+Legendary+Stuff+%F0%9F%92%80" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&color=FF6B6B&lines=Software+Engineer+%F0%9F%9A%80;Aerospace+Systems+Architect+%F0%9F%9B%B0%EF%B8%8F;Game+Modding+Wizard+%F0%9F%94%A5;Builder+of+Sick+Shit+%F0%9F%92%80" alt="Typing SVG" />
+</div>
 
----
+<div align="center">
 
-<div align="center" style="background: linear-gradient(90deg, #7b00ff, #00ffd1); padding: 10px; border-radius: 12px; box-shadow: 0 0 15px #7b00ff, 0 0 30px #00ffd1;">
-  <h2 style="color: #fff; font-weight: 900; text-shadow: 0 0 10px #00ffd1;">About Me</h2>
-  <p style="color: #ccc; font-size: 1.1rem; max-width: 600px; margin: auto;">
-    Hey, I'm <b>Devil</b> — a no-nonsense <b>Software Engineer</b> working at a top-tier Aerospace company.  
-    I architect real-world systems that orbit the planet, and by night, I mod the absolute hell out of games.  
-  </p>
+![Made with ❤️ and Rage](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20and%20rage-FF6B6B?style=for-the-badge&logo=github&logoColor=white)
+![RedM](https://img.shields.io/badge/RedM-FXServer-DC143C?style=for-the-badge&logo=rockstar-games&logoColor=white)
+![FiveM](https://img.shields.io/badge/FiveM-Roleplay-F40552?style=for-the-badge&logo=lua&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-Modder-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![GMod](https://img.shields.io/badge/Garry's%20Mod-Lua%20Dev-FF6B00?style=for-the-badge&logo=steam&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-LuaU%20Games-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
+
 </div>
 
 ---
 
-## 💻 Tech Arsenal  
-<p align="center" style="filter: drop-shadow(0 0 5px #7b00ff);">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,csharp,lua,java,go,rust,react,nodejs,unity,docker,postgres,linux&theme=dark" />
-</p>
+## 🎯 About Me
+
+Hey, I'm **Devil** — a no bullshit **Software Engineer** at a real world **Aerospace Company**.  
+I architect real systems that orbit the planet... and in my free time, I mod the absolute hell out of games.
+
+```javascript
+const developer = {
+    name: "Devil",
+    role: "Software Engineer & Game Modder",
+    company: "Aerospace Industry",
+    passion: "Building legendary game frameworks",
+    motto: "If it doesn't run flawlessly, I don't ship it"
+}
+````
 
 ---
 
-## 📡 Live Discord Presence  
-<p align="center">
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank" rel="noopener noreferrer">
-    <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=0f0f0f&borderRadius=12px&animated=true" alt="Discord Status" style="max-width: 350px; border-radius: 12px; filter: drop-shadow(0 0 10px #00ffd1);" />
-  </a>
-</p>
+## 🎮 What I Build
 
----
+<table>
+<tr>
+<td width="50%">
 
-## 📊 GitHub Stats & Streak  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devilrone&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7b00ff&icon_color=00ffd1&text_color=ccc&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" style="border-radius: 16px; box-shadow: 0 0 20px #7b00ff, 0 0 40px #00ffd1;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devilrone&theme=radical&hide_border=true&background=0d1117&stroke=7b00ff&ring=00ffd1&fire=7b00ff&currStreakLabel=ccc" alt="GitHub Streak" width="48%" style="border-radius: 16px; box-shadow: 0 0 20px #7b00ff, 0 0 40px #00ffd1;"/>
-</p>
+**🤠 RedM (RDR2)**
+Deep RP frameworks, complete server rewrites, gang systems, law enforcement tools
 
----
+**🏎️ FiveM (GTA V)**
+Full-stack server builds, combat frameworks, custom NUI apps, anti-cheat systems
 
-## 📈 Contribution Graph  
-<p align="center" style="filter: drop-shadow(0 0 10px #7b00ff);">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilrone&bg_color=0d1117&color=7b00ff&line=00ffd1&point=7b00ff&area=true&hide_border=true" alt="Contribution Graph" style="border-radius: 16px;" />
-</p>
+**⛏️ Minecraft (Java)**
+Plugins (Spigot, Paper, Bukkit), mods (Forge, Fabric), world generators
 
----
+</td>
+<td width="50%">
 
-## 🚀 Featured Projects  
-<div align="center" style="max-width: 900px;">
-<table style="width: 100%; border-collapse: collapse; color: #ccc;">
-  <thead style="background: linear-gradient(90deg, #7b00ff, #00ffd1); color: #000;">
-    <tr>
-      <th style="padding: 12px; border-radius: 12px 12px 0 0;">Project</th>
-      <th style="padding: 12px;">Description</th>
-      <th style="padding: 12px; border-radius: 12px 12px 0 0;">Tech</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background: #121212;">
-      <td style="padding: 15px; font-weight: 700; border-right: 1px solid #444;">Prison Plugin</td>
-      <td style="padding: 15px;">Highly customizable Minecraft prison server plugin with OP features.</td>
-      <td style="padding: 15px;">Kotlin, Spigot API, Exposed ORM</td>
-    </tr>
-    <tr style="background: #1a1a1a;">
-      <td style="padding: 15px; font-weight: 700; border-right: 1px solid #444;">FusionMines Discord Bot</td>
-      <td style="padding: 15px;">Modern Discord bot with slash commands and modular design.</td>
-      <td style="padding: 15px;">TypeScript, Discord.js</td>
-    </tr>
-    <tr style="background: #121212;">
-      <td style="padding: 15px; font-weight: 700; border-right: 1px solid #444;">RiverSMP Server</td>
-      <td style="padding: 15px;">Survival Minecraft server with PvP, economy, crates, and custom features.</td>
-      <td style="padding: 15px;">Java, PaperMC, MySQL</td>
-    </tr>
-  </tbody>
+**🔧 Garry's Mod**
+Custom entities, full gamemodes (DarkRP, TTT), Lua networking, admin systems
+
+**🎯 Roblox & Unity**
+Economy modules, multiplayer networking, C# gameplay scripting
+
+**🧟 DayZ & Custom Engines**
+Server logic, OpenGL renderers, real-time simulations
+
+</td>
+</tr>
 </table>
+
+---
+
+> **💡 Everything I build is full-stack, backend-connected, modular, and built to run without failure.**
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge\&logo=unity\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+</div>
+
+```yaml
+Specialties: [
+  Game Development: "FiveM/RedM, Minecraft APIs, Unity, Custom Engines",
+  Backend: "Node.js, Python, PostgreSQL, Docker, WebSockets",
+  Systems: "Linux, Assembly, Real-time networking, Anti-cheat"
+]
+```
+
+---
+
+## 🔗 Discord Presence
+
+<div align="center">
+  <img src="https://lanyard-profile-readme.vercel.app/api/151217333883371520?theme=dark&bg=0d1117&idleMessage=%20Probably%20coding...%20or%20gaming" alt="Discord Status"/>
 </div>
 
 ---
 
-## 💭 Random Dev Quote  
-<p align="center" style="color: #7b00ff; font-style: italic; text-shadow: 0 0 8px #00ffd1;">
-  "Code with purpose. Build with passion. Ship with pride."
-</p>
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devilrone&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=00D4AA&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilrone&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&langs_count=10&count_private=true" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=devilrone&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=00D4AA&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+</div>
 
 ---
 
-<p align="center" style="margin-top: 30px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b00ff&height=100&section=footer&text=Thanks%20for%20visiting!&fontColor=00ffd1&fontSize=30&animation=fadeIn" />
-</p>
+## 🏆 Achievement Unlocked
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devilrone&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophy Stats"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilrone&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+---
+
+## 🔥 Quick Stats & Metrics
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=devilrone\&color=FF6B6B\&style=for-the-badge\&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/devilrone?color=FF6B6B\&style=for-the-badge\&label=FOLLOWERS)
+![GitHub Stars](https://img.shields.io/github/stars/devilrone?color=FF6B6B\&style=for-the-badge\&label=TOTAL+STARS)
+
+</div>
+
+---
+
+<div align="center">
+**⚡ "Code with purpose. Build with passion. Ship with pride." ⚡**
