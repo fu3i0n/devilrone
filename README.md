@@ -30,7 +30,7 @@ const developer = {
     passion: "Building legendary game frameworks",
     motto: "If it doesn't run flawlessly, I don't ship it"
 }
-```
+````
 
 ---
 
@@ -40,25 +40,25 @@ const developer = {
 <tr>
 <td width="50%">
 
-**🤠 RedM (RDR2)**  
+**🤠 RedM (RDR2)**
 Deep RP frameworks, complete server rewrites, gang systems, law enforcement tools
 
-**🏎️ FiveM (GTA V)**  
+**🏎️ FiveM (GTA V)**
 Full-stack server builds, combat frameworks, custom NUI apps, anti-cheat systems
 
-**⛏️ Minecraft (Java)**  
+**⛏️ Minecraft (Java)**
 Plugins (Spigot, Paper, Bukkit), mods (Forge, Fabric), world generators
 
 </td>
 <td width="50%">
 
-**🔧 Garry's Mod**  
+**🔧 Garry's Mod**
 Custom entities, full gamemodes (DarkRP, TTT), Lua networking, admin systems
 
-**🎯 Roblox & Unity**  
+**🎯 Roblox & Unity**
 Economy modules, multiplayer networking, C# gameplay scripting
 
-**🧟 DayZ & Custom Engines**  
+**🧟 DayZ & Custom Engines**
 Server logic, OpenGL renderers, real-time simulations
 
 </td>
@@ -75,22 +75,22 @@ Server logic, OpenGL renderers, real-time simulations
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge\&logo=lua\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge\&logo=unity\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 </div>
 
@@ -101,6 +101,14 @@ Specialties: [
   Systems: "Linux, Assembly, Real-time networking, Anti-cheat"
 ]
 ```
+
+---
+
+## 🔗 Discord Presence
+
+<div align="center">
+  <img src="https://lanyard-profile-readme.vercel.app/api/151217333883371520?theme=dark&bg=0d1117&idleMessage=%20Probably%20coding...%20or%20gaming" alt="Discord Status"/>
+</div>
 
 ---
 
@@ -126,6 +134,7 @@ Specialties: [
 ---
 
 ## 📈 Contribution Graph
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devilrone&bg_color=0D1117&color=FF6B6B&line=FF6B6B&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
@@ -133,6 +142,7 @@ Specialties: [
 ---
 
 ## 💭 Random Dev Quote
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
@@ -143,9 +153,9 @@ Specialties: [
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=devilrone&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/devilrone?color=FF6B6B&style=for-the-badge&label=FOLLOWERS)
-![GitHub Stars](https://img.shields.io/github/stars/devilrone?color=FF6B6B&style=for-the-badge&label=TOTAL+STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=devilrone\&color=FF6B6B\&style=for-the-badge\&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/devilrone?color=FF6B6B\&style=for-the-badge\&label=FOLLOWERS)
+![GitHub Stars](https://img.shields.io/github/stars/devilrone?color=FF6B6B\&style=for-the-badge\&label=TOTAL+STARS)
 
 </div>
 
@@ -153,5 +163,3 @@ Specialties: [
 
 <div align="center">
 **⚡ "Code with purpose. Build with passion. Ship with pride." ⚡**
-
-</div>
