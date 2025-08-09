@@ -19,8 +19,8 @@
 
 ## 🎯 About Me
 
-Hey, I'm **Devil** — a no bullshit **Software Engineer** at a real world **Aerospace Company**.  
-I architect real systems that orbit the planet... and in my free time, I mod the absolute hell out of games.
+Hey, I'm **Devil** a no bullshit **Software Engineer** at a real world **Aerospace Company**.  
+I architect real systems that orbit the planet and in my free time, I mod the absolute hell out of games.
 
 ```javascript
 const developer = {
