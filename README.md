@@ -162,4 +162,4 @@ Specialties: [
 ---
 
 <div align="center">
-**⚡ "Code with purpose. Build with passion. Ship with pride." ⚡**
+**⚡ "Code with purpose. Build with passion. Ship with pride. " ⚡**
